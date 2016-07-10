@@ -44,3 +44,19 @@ In order to aid in preventing trafficking, I am working on a system for law enfo
 ###What the code does
 
 [Investigator's documentation](https://github.com/EricSchles/investigator/blob/master/lectures/scraping_the_web/scraping_the_web.md)
+
+###What you can do to help
+
+If you're technical:
+
+If you're technical you can contribute to the [memex project](http://www.darpa.mil/program/memex).  It's mostly being used for other purposes these days, but lots of anti trafficking police folks still use it or some offshot of these tools.  This list could also inspire you to start building your own set of tools.
+
+If you're non-technical:
+
+* [taking pictures of your hotel room](http://wgntv.com/2016/06/23/snapping-a-picture-of-your-hotel-room-could-help-stop-human-trafficking/)
+
+* volunteer or work at places like these:
+	* [nyc list](http://www.nyc.gov/html/endht/html/how/professionals.shtml)
+	* [state list](https://stophumantraffickingny.wordpress.com/coalition-members/)
+	* [another state list](http://www.tvpja.com/the-new-york-state-anti-trafficking-coalition.html)
+
