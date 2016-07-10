@@ -43,4 +43,4 @@ In order to aid in preventing trafficking, I am working on a system for law enfo
 
 ###What the code does
 
-
+[Investigator's documentation](https://github.com/EricSchles/investigator/blob/master/lectures/scraping_the_web/scraping_the_web.md)
